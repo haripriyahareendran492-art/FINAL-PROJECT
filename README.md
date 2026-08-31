@@ -41,8 +41,10 @@ PowerBI/       → Power BI Dashboard
 Report/        → Project Report PDF
  
  Outcome
+
 The project transforms retail data into actionable insights to support profitability improvement, inventory optimization, and data-driven business decisions.
 
 Author
+
 Haripriya Hareendran
 MSc Data Science & Analytics# FINAL-PROJECT
