@@ -47,4 +47,5 @@ The project transforms retail data into actionable insights to support profitabi
 Author
 
 Haripriya Hareendran
-MSc Data Science & Analytics# FINAL-PROJECT
+
+MSc Data Science & Analytics
