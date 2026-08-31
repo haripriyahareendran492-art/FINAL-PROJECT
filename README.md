@@ -13,7 +13,9 @@ Analyse seasonal and city-wise performance.
 Identify slow-moving and overstocked products.
 Examine the relationship between inventory days and profitability.
 Provide data-driven business recommendations.
-🛠️ Tools Used
+
+Tools Used
+
 Python – Pandas, NumPy, Matplotlib, Seaborn
 MySQL – Data storage and SQL analysis
 Power BI – Interactive dashboard and visualization
